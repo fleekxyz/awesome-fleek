@@ -24,6 +24,10 @@ To learn more on how to use the code playground - [follow this tutorial](https:/
 (CLI implementation of Fleek Edge Functions is coming soon!)
 
 
+# 👍 Contributing
+Please make sure you follow the [contribution guidelines](https://github.com/fleek-network/awesome-fleek/blob/main/CONTRIBUTING.md) before making your first contribution to this repository.
+
+
 # 🤝 Community
 Questions and Discussions are highly encouraged and appreciated. You can either create an issue here or ping us on [discord](https://discord.gg/fleek).
 
