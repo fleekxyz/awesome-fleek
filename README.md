@@ -1,4 +1,4 @@
-![GitHub-Lightning-Banner-Pic](https://github.com/fleek-network/awesome-fleek/assets/74613246/6e8feab7-871c-4c3c-bdd5-a808959bc873)
+![GitHub-Lightning-Banner-Pic](https://github.com/fleekxyz/awesome-fleek/assets/74613246/397a60e3-aa87-4b93-9b79-99416d22019a)
 
 # ⚡ Fleek is an edge-optimized, onchain cloud platform ⚡
 Fleek algorithmically operates a global network of web infrastructure operators (called nodes) to create a superior cloud platform for developers to run their software and applications on. With Fleek you get permissionless, high performance, edge-optimized, auto-scalable infrastructure out of the box, and at a lower cost than centralzied counterparts.
