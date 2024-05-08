@@ -25,7 +25,7 @@ To learn more on how to use the code playground - [follow this tutorial](https:/
 
 
 # 👍 Contributing
-Please make sure you follow the [contribution guidelines](https://github.com/fleek-network/awesome-fleek/blob/main/CONTRIBUTING.md) before making your first contribution to this repository.
+Please make sure you follow the [contribution guidelines](https://github.com/fleekxyz/awesome-fleek/blob/main/CONTRIBUTING.md) before making your first contribution to this repository.
 
 
 # 🤝 Community
