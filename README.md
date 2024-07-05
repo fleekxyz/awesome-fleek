@@ -17,11 +17,9 @@ This repo aims to collect community explorations on Fleek Network and build crea
 
 # 🔰 Getting Started
 Ensure that you have gone through the above given resources to build your technical foundation before contributing.
-To start experimenting with Fleek Edge Functions, head over to [Fleek Network Code Playground](https://code-playground.on-fleek.app/)
+To start experimenting with Fleek Functions, head over to [Fleek CLI](https://fleek.xyz/docs/cli/)
 
-To learn more on how to use the code playground - [follow this tutorial](https://x.com/fleek_net/status/1753531279432126840)
-
-(CLI implementation of Fleek Edge Functions is coming soon!)
+To learn more on how to use the CLI for Fleek Functions - [follow this tutorial](https://x.com/fleek/status/1803819953293836619)
 
 
 # 👍 Contributing
